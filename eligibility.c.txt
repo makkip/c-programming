@@ -1,4 +1,3 @@
-//eligibility to vote
 #include <stdio.h>
 
 int main() {
